@@ -55,6 +55,44 @@ Unlike conventional robot manipulators, a four-bar linkage is a **closed-loop me
 
 ---
 
+# 📸 Project Demonstration
+
+## 🎨 Fusion 360 CAD Design
+
+The four-bar linkage mechanism was first designed and validated in **Autodesk Fusion 360** before being translated into a ROS2-compatible URDF model.
+
+### 🖼️ CAD Model
+
+<p align="center">
+  <img src="Fusion_360_final.png" alt="Fusion 360 Design" width="750"/>
+</p>
+
+### 🎥 CAD Motion Demo
+
+
+
+> Demonstrates a full **360° crank rotation** validating the Grashof-compliant mechanism inside Fusion 360.
+
+---
+
+## 🤖 ROS2 + RViz2 Simulation
+
+The CAD model is converted into a **URDF** and simulated in **ROS2 Humble**, where a custom Python node continuously solves the closed-loop kinematics and publishes joint states.
+
+### 🖼️ RViz2 Simulation
+
+<p align="center">
+  <img src="RViz2_final_pic.png" alt="RViz2 Simulation" width="750"/>
+</p>
+
+### 🎥 Simulation Demo
+
+
+
+> Shows the real-time oscillatory motion of the four-bar linkage with dynamic joint updates, custom inverse kinematics, and RViz2 visualization.
+
+---
+
 # 🛠️ Technologies Used
 
 | Technology | Purpose |
