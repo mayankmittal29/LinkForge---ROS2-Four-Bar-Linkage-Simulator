@@ -1,0 +1,19 @@
+[0.676s] Invoking command in '/home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage': PYTHONPATH=/home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/build --no-deps symlink_data
+[0.818s] /home/mayank/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.818s]   warnings.warn(msg)
+[0.964s] running develop
+[1.171s] running egg_info
+[1.187s] writing four_bar_linkage.egg-info/PKG-INFO
+[1.187s] writing dependency_links to four_bar_linkage.egg-info/dependency_links.txt
+[1.187s] writing entry points to four_bar_linkage.egg-info/entry_points.txt
+[1.187s] writing requirements to four_bar_linkage.egg-info/requires.txt
+[1.187s] writing top-level names to four_bar_linkage.egg-info/top_level.txt
+[1.220s] reading manifest file 'four_bar_linkage.egg-info/SOURCES.txt'
+[1.221s] writing manifest file 'four_bar_linkage.egg-info/SOURCES.txt'
+[1.246s] running build_ext
+[1.246s] Creating /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/python3.10/site-packages/four-bar-linkage.egg-link (link to .)
+[1.247s] Installing joint_state_publisher script to /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/four_bar_linkage
+[1.247s] 
+[1.247s] Installed /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage
+[1.247s] running symlink_data
+[1.279s] Invoked command in '/home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage' returned '0': PYTHONPATH=/home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/build --no-deps symlink_data

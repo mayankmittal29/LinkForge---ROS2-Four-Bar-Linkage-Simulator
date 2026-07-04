@@ -1,0 +1,17 @@
+/home/mayank/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running develop
+running egg_info
+writing four_bar_linkage.egg-info/PKG-INFO
+writing dependency_links to four_bar_linkage.egg-info/dependency_links.txt
+writing entry points to four_bar_linkage.egg-info/entry_points.txt
+writing requirements to four_bar_linkage.egg-info/requires.txt
+writing top-level names to four_bar_linkage.egg-info/top_level.txt
+reading manifest file 'four_bar_linkage.egg-info/SOURCES.txt'
+writing manifest file 'four_bar_linkage.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mayank/Downloads/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/python3.10/site-packages/four-bar-linkage.egg-link (link to .)
+Installing joint_state_publisher script to /home/mayank/Downloads/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/four_bar_linkage
+
+Installed /home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage
+running symlink_data

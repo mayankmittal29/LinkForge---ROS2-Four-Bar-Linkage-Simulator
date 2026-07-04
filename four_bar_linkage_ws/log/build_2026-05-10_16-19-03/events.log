@@ -1,0 +1,52 @@
+[0.000000] (-) TimerEvent: {}
+[0.000464] (four_bar_linkage) JobQueued: {'identifier': 'four_bar_linkage', 'dependencies': OrderedDict()}
+[0.001763] (four_bar_linkage) JobStarted: {'identifier': 'four_bar_linkage'}
+[0.099518] (-) TimerEvent: {}
+[0.200216] (-) TimerEvent: {}
+[0.301025] (-) TimerEvent: {}
+[0.401740] (-) TimerEvent: {}
+[0.504058] (-) TimerEvent: {}
+[0.604540] (-) TimerEvent: {}
+[0.705272] (-) TimerEvent: {}
+[0.805810] (-) TimerEvent: {}
+[0.906470] (-) TimerEvent: {}
+[1.006897] (-) TimerEvent: {}
+[1.107566] (-) TimerEvent: {}
+[1.207978] (-) TimerEvent: {}
+[1.308729] (-) TimerEvent: {}
+[1.409574] (-) TimerEvent: {}
+[1.510354] (-) TimerEvent: {}
+[1.610825] (-) TimerEvent: {}
+[1.711129] (-) TimerEvent: {}
+[1.811502] (-) TimerEvent: {}
+[1.866575] (four_bar_linkage) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage/build', '--no-deps', 'symlink_data'], 'cwd': '/home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'PYTHON_BASIC_REPL': '1', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'GZ_SIM_RESOURCE_PATH': '/home/mayank/.gz/models', 'USER': 'mayank', 'XDG_SESSION_TYPE': 'wayland', 'GIT_ASKPASS': '/usr/share/antigravity/resources/app/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'ANTIGRAVITY_CLI_ALIAS': 'agy', 'HOME': '/home/mayank', 'CHROME_DESKTOP': 'antigravity.desktop', 'OLDPWD': '/home/mayank/Downloads/2022101094', 'TERM_PROGRAM_VERSION': '1.107.0', 'DESKTOP_SESSION': 'ubuntu', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/antigravity.desktop', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'VSCODE_GIT_ASKPASS_MAIN': '/usr/share/antigravity/resources/app/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/usr/share/antigravity/antigravity', 'MANAGERPID': '2058', 'PYDEVD_DISABLE_FILE_VALIDATION': '1', 'SYSTEMD_EXEC_PID': '2222', 'BUNDLED_DEBUGPY_PATH': '/home/mayank/.antigravity/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/libs/debugpy', 'IM_CONFIG_CHECK_ENV': '1', 'VSCODE_PYTHON_AUTOACTIVATE_GUARD': '1', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '6486', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'humble', 'LOGNAME': 'mayank', 'JOURNAL_STREAM': '8:2036', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'mayank', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'FC_FONTATIONS': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/mayank/.local/bin:/opt/ros/humble/bin:/home/mayank/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/opt/xtensa-esp-elf/bin/:/home/mayank/.antigravity/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts:/opt/xtensa-esp-elf/bin/', 'SESSION_MANAGER': 'local/mayank-HP:@/tmp/.ICE-unix/2192,unix/mayank-HP:/tmp/.ICE-unix/2192', 'INVOCATION_ID': 'adb8717146ac447ea5c7cb8e2a19ead6', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'GDK_BACKEND': 'wayland', 'DISPLAY': ':0', 'VSCODE_DEBUGPY_ADAPTER_ENDPOINTS': '/home/mayank/.antigravity/extensions/ms-python.debugpy-2026.6.0-linux-x64/.noConfigDebugAdapterEndpoints/endpoint-1fdff4d23207c8e0.txt', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'PYTHONSTARTUP': '/home/mayank/.config/Antigravity/User/workspaceStorage/1f755e4d0f9ab118e25f4803ebfdfecb/ms-python.python/pythonrc.py', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.73BWO3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-e9b259625f.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GJS_DEBUG_OUTPUT': 'stderr', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'QT_IM_MODULE': 'ibus', 'JAVA_HOME': '/usr/lib/jvm/jdk-24.0.1-oracle-x64', 'PWD': '/home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mayank/Downloads/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[1.911697] (-) TimerEvent: {}
+[2.012326] (-) TimerEvent: {}
+[2.112922] (-) TimerEvent: {}
+[2.213414] (-) TimerEvent: {}
+[2.240048] (four_bar_linkage) StderrLine: {'line': b"/home/mayank/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'\n"}
+[2.240233] (four_bar_linkage) StderrLine: {'line': b'  warnings.warn(msg)\n'}
+[2.313535] (-) TimerEvent: {}
+[2.413795] (-) TimerEvent: {}
+[2.415534] (four_bar_linkage) StdoutLine: {'line': b'running develop\n'}
+[2.513905] (-) TimerEvent: {}
+[2.614216] (-) TimerEvent: {}
+[2.665702] (four_bar_linkage) StdoutLine: {'line': b'running egg_info\n'}
+[2.687274] (four_bar_linkage) StdoutLine: {'line': b'writing four_bar_linkage.egg-info/PKG-INFO\n'}
+[2.687928] (four_bar_linkage) StdoutLine: {'line': b'writing dependency_links to four_bar_linkage.egg-info/dependency_links.txt\n'}
+[2.688208] (four_bar_linkage) StdoutLine: {'line': b'writing entry points to four_bar_linkage.egg-info/entry_points.txt\n'}
+[2.688383] (four_bar_linkage) StdoutLine: {'line': b'writing requirements to four_bar_linkage.egg-info/requires.txt\n'}
+[2.688588] (four_bar_linkage) StdoutLine: {'line': b'writing top-level names to four_bar_linkage.egg-info/top_level.txt\n'}
+[2.714373] (-) TimerEvent: {}
+[2.728550] (four_bar_linkage) StdoutLine: {'line': b"reading manifest file 'four_bar_linkage.egg-info/SOURCES.txt'\n"}
+[2.729554] (four_bar_linkage) StdoutLine: {'line': b"writing manifest file 'four_bar_linkage.egg-info/SOURCES.txt'\n"}
+[2.747400] (four_bar_linkage) StdoutLine: {'line': b'running build_ext\n'}
+[2.747630] (four_bar_linkage) StdoutLine: {'line': b'Creating /home/mayank/Downloads/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/python3.10/site-packages/four-bar-linkage.egg-link (link to .)\n'}
+[2.748513] (four_bar_linkage) StdoutLine: {'line': b'Installing joint_state_publisher script to /home/mayank/Downloads/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/four_bar_linkage\n'}
+[2.748831] (four_bar_linkage) StdoutLine: {'line': b'\n'}
+[2.748960] (four_bar_linkage) StdoutLine: {'line': b'Installed /home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage\n'}
+[2.749065] (four_bar_linkage) StdoutLine: {'line': b'running symlink_data\n'}
+[2.814503] (-) TimerEvent: {}
+[2.825709] (four_bar_linkage) CommandEnded: {'returncode': 0}
+[2.849416] (four_bar_linkage) JobEnded: {'identifier': 'four_bar_linkage', 'rc': 0}
+[2.852205] (-) EventReactorShutdown: {}

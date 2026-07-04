@@ -1,0 +1,31 @@
+running develop
+running egg_info
+creating four_bar_linkage.egg-info
+writing four_bar_linkage.egg-info/PKG-INFO
+writing dependency_links to four_bar_linkage.egg-info/dependency_links.txt
+writing entry points to four_bar_linkage.egg-info/entry_points.txt
+writing requirements to four_bar_linkage.egg-info/requires.txt
+writing top-level names to four_bar_linkage.egg-info/top_level.txt
+writing manifest file 'four_bar_linkage.egg-info/SOURCES.txt'
+reading manifest file 'four_bar_linkage.egg-info/SOURCES.txt'
+writing manifest file 'four_bar_linkage.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/python3.10/site-packages/four-bar-linkage.egg-link (link to .)
+Installing joint_state_publisher script to /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/four_bar_linkage
+
+Installed /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage
+running symlink_data
+creating /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/ament_index/resource_index/packages
+symbolically linking /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/resource/four_bar_linkage -> /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/ament_index/resource_index/packages
+symbolically linking /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/package.xml -> /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage
+creating /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/urdf
+symbolically linking /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/urdf/four_bar_linkage.urdf -> /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/urdf
+creating /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/meshes
+symbolically linking /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/meshes/Component1_Component4.stl -> /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/meshes
+symbolically linking /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/meshes/Component1_Component3.stl -> /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/meshes
+symbolically linking /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/meshes/Component1_Component5.stl -> /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/meshes
+symbolically linking /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/meshes/Component1_Component2.stl -> /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/meshes
+creating /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/launch
+symbolically linking /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/launch/display.launch.py -> /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/launch
+creating /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/config
+symbolically linking /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/build/four_bar_linkage/config/rviz_config.rviz -> /home/mayank/Desktop/SEM8/Mecha/2022101094/four_bar_linkage_ws/install/four_bar_linkage/share/four_bar_linkage/config

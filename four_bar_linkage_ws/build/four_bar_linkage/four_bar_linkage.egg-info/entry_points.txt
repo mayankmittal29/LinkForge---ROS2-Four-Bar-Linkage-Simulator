@@ -1,0 +1,2 @@
+[console_scripts]
+joint_state_publisher = four_bar_linkage.joint_state_publisher:main

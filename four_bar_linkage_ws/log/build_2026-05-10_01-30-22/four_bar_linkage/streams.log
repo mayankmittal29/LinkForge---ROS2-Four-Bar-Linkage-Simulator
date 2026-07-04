@@ -1,0 +1,19 @@
+[0.955s] Invoking command in '/home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage': PYTHONPATH=/home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mayank/Downloads/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage/build --no-deps symlink_data
+[1.198s] /home/mayank/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.198s]   warnings.warn(msg)
+[1.386s] running develop
+[1.576s] running egg_info
+[1.599s] writing four_bar_linkage.egg-info/PKG-INFO
+[1.600s] writing dependency_links to four_bar_linkage.egg-info/dependency_links.txt
+[1.600s] writing entry points to four_bar_linkage.egg-info/entry_points.txt
+[1.600s] writing requirements to four_bar_linkage.egg-info/requires.txt
+[1.600s] writing top-level names to four_bar_linkage.egg-info/top_level.txt
+[1.628s] reading manifest file 'four_bar_linkage.egg-info/SOURCES.txt'
+[1.629s] writing manifest file 'four_bar_linkage.egg-info/SOURCES.txt'
+[1.644s] running build_ext
+[1.644s] Creating /home/mayank/Downloads/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/python3.10/site-packages/four-bar-linkage.egg-link (link to .)
+[1.645s] Installing joint_state_publisher script to /home/mayank/Downloads/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/four_bar_linkage
+[1.645s] 
+[1.645s] Installed /home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage
+[1.645s] running symlink_data
+[1.675s] Invoked command in '/home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage' returned '0': PYTHONPATH=/home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mayank/Downloads/2022101094/four_bar_linkage_ws/install/four_bar_linkage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mayank/Downloads/2022101094/four_bar_linkage_ws/build/four_bar_linkage/build --no-deps symlink_data
