@@ -69,7 +69,7 @@ The four-bar linkage mechanism was first designed and validated in **Autodesk Fu
 
 ### 🎥 CAD Motion Demo
 
-
+https://github.com/mayankmittal29/LinkForge---ROS2-Four-Bar-Linkage-Simulator/blob/main/Fusion_360_video.mp4
 
 > Demonstrates a full **360° crank rotation** validating the Grashof-compliant mechanism inside Fusion 360.
 
