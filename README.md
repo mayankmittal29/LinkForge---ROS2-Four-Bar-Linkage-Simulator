@@ -86,7 +86,7 @@ The CAD model is converted into a **URDF** and simulated in **ROS2 Humble**, whe
 </p>
 
 ### 🎥 Simulation Demo
-
+https://github.com/mayankmittal29/LinkForge---ROS2-Four-Bar-Linkage-Simulator/blob/main/RViz2_final_video.webm
 
 
 > Shows the real-time oscillatory motion of the four-bar linkage with dynamic joint updates, custom inverse kinematics, and RViz2 visualization.
